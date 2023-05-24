@@ -1,4 +1,4 @@
-![20230524](/Users/mizt/Development/20230524/20230524.png)
+![20230524](./20230524.png)
 
 ```
 $ mv /Users/mizt/Downloads/20230524-main/RDM.app /Applications
