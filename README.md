@@ -1,7 +1,7 @@
 ![20230524](./20230524.png)
 
 ```
-$ mv /Users/mizt/Downloads/20230524-main/RDM.app /Applications
+$ mv ~/Downloads/20230524-main/RDM.app /Applications
 $ open /Applications/RDM.app
 ```
 
